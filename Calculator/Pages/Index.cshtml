@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<body>
+    <div>
+        <h1 >Calculator</h1>
+    </div>
+
+    <div class="container">
+        <form method="POST">
+            <div>
+                <input type="number" name="Number1" id="Number1" placeholder="Number one" step="0.01" required>
+            </div><br>
+                
+            <div>
+                <input type="number" name="Number2" id="Number2" placeholder="Number two" step="0.01" required>
+            </div><br>
+
+            <div>
+                <input type="submit" value="add" name="Operator">
+                <input type="submit" value="sub" name="Operator">
+                <input type="submit" value="mult" name="Operator">
+                <input type="submit" value="div" name="Operator">
+            </div>
+        </form>
+
+        @if(Model.hasData)
+        {
+            <p>@Model.result</p>
+        }
+    </div>
+</body>
+

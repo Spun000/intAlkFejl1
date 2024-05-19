@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "E/AOIw1+PNMopHVCpp77wOVm8KNTcCxv1CGZ/A7hjck=",
+  "Source": "Calculator",
+  "BasePath": "_content/Calculator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/bundle/Calculator.styles.css",
+      "SourceId": "Calculator",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/bundle/",
+      "BasePath": "_content/Calculator",
+      "RelativePath": "Calculator.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/bundle/Calculator.styles.css"
+    },
+    {
+      "Identity": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/projectbundle/Calculator.bundle.scp.css",
+      "SourceId": "Calculator",
+      "SourceType": "Computed",
+      "ContentRoot": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Calculator",
+      "RelativePath": "Calculator.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/norbert/Projects/intAlkFejl1/Calculator/obj/Debug/net7.0/scopedcss/projectbundle/Calculator.bundle.scp.css"
+    }
+  ]
+}
